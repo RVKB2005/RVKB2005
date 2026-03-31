@@ -205,6 +205,7 @@ player = {
 ## ✨ Main Story Arcs — Featured Projects
 
 <table align="center" width="96%" border="0" cellpadding="16" cellspacing="0">
+
 <tr>
 <td width="50%" valign="top">
 
@@ -227,9 +228,6 @@ player = {
 <a href="https://cblock.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%8F%20VISIT%20WEBSITE-0A1628?style=for-the-badge&logo=vercel&logoColor=7DD3FA"/></a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### ⚔️ DeFiScore
@@ -241,11 +239,14 @@ player = {
 ![Ethereum](https://img.shields.io/badge/Ethereum-0A1628?style=flat-square&logo=ethereum&logoColor=D97444)
 ![Web3](https://img.shields.io/badge/Web3-0A1628?style=flat-square&logo=web3.js&logoColor=FCD68A)
 
-- 🔒 Zero-Knowledge Proofs for user anonymity
-- 🏛️ DAO governance for transparent, immutable scoring
-- 🌐 Cross-chain scalability + undercollateralized lending
+- 🔒 Zero-Knowledge Proofs for user anonymity  
+- 🏛️ DAO governance for transparent, immutable scoring  
+- 🌐 Cross-chain scalability + undercollateralized lending  
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🗡️ WebChain
@@ -257,14 +258,12 @@ player = {
 ![Ethereum](https://img.shields.io/badge/Ethereum-0A1628?style=flat-square&logo=ethereum&logoColor=D97444)
 ![FHIR](https://img.shields.io/badge/FHIR-0A1628?style=flat-square&logoColor=C4607A)
 
-- 🔑 Smart contracts for role-based access control
-- 📋 Patient consent management on-chain
-- ⚡ Real-time, interoperable healthcare data management
+- 🔑 Smart contracts for role-based access control  
+- 📋 Patient consent management on-chain  
+- ⚡ Real-time, interoperable healthcare data management  
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🏥 HDIMS — Health Data Information Management System
 > *「 Arc: A system so complete, no data is ever lost in the fog of war 」*
@@ -275,9 +274,9 @@ player = {
 ![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=FCD68A)
 ![MySQL](https://img.shields.io/badge/MySQL-0A1628?style=flat-square&logo=mysql&logoColor=D97444)
 
-- 🗺️ Multi-level admin dashboard — District · Sub-district · State/UT
-- 🏨 Separate hospital and department interfaces
-- 📊 Data visualization for health scheme management
+- 🗺️ Multi-level admin dashboard — District · Sub-district · State/UT  
+- 🏨 Separate hospital and department interfaces  
+- 📊 Data visualization for health scheme management  
 
 <a href="https://youtu.be/SP7m-flGhzo?si=qj8kPvbQKmy40hOL"><img src="https://img.shields.io/badge/%E2%96%B6%20WATCH%20DEMO-0A1628?style=for-the-badge&logo=youtube&logoColor=E83A3A"/></a>
 
