@@ -208,6 +208,30 @@ player = {
 <tr>
 <td width="50%" valign="top">
 
+### 🌍 CBlock
+> *「 Arc: Forging a greener future through decentralized trust 」*
+
+**Blockchain-powered carbon credit marketplace** on Ethereum for secure and transparent trading. Smart contracts automate **verification, issuance, trading, and retirement** with IPFS storage, ensuring scalability and integrity.
+
+![Solidity](https://img.shields.io/badge/Solidity-0A1628?style=flat-square&logo=solidity&logoColor=7DD3FA)
+![Ethereum](https://img.shields.io/badge/Ethereum-0A1628?style=flat-square&logo=ethereum&logoColor=D97444)
+![React](https://img.shields.io/badge/React-0A1628?style=flat-square&logo=react&logoColor=FCD68A)
+![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=flat-square&logo=node.js&logoColor=7DD3FA)
+![IPFS](https://img.shields.io/badge/IPFS-0A1628?style=flat-square&logo=ipfs&logoColor=C4607A)
+
+- ♻️ Carbon credit issuance & retirement via smart contracts  
+- 🔒 IPFS storage for decentralized verification  
+- 🌐 Built with React.js, Node.js, MetaMask, and IPFS  
+
+<a href="https://www.youtube.com/watch?si=8REHSucdmOiaJVh1&v=I936C3rUE3E&feature=youtu.be"><img src="https://img.shields.io/badge/%E2%96%B6%20WATCH%20DEMO-0A1628?style=for-the-badge&logo=youtube&logoColor=E83A3A"/></a>
+<a href="https://cblock.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%8F%20VISIT%20WEBSITE-0A1628?style=for-the-badge&logo=vercel&logoColor=7DD3FA"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### ⚔️ DeFiScore
 > *「 Arc: Forge trust without identity — the Phantom Bullet of Finance 」*
 
