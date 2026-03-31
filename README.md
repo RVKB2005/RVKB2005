@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20SIH%20Finalist&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20Patent%20Holder%20%E2%80%A2%20SIH%20Finalist&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=SIH+%26+STATATHON+Finalist+%7C+IEEE+Award+Winner;Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder;2x+Published+Author+%7C+NXTGEN+Hackathon;Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=SIH+%26+STATATHON+Finalist+%7C+Patent+Holder;Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder;2x+Published+Author+%7C+KAAVAL+Hackathon+Finalist;Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python" alt="Typing SVG" />
 
 </div>
 
@@ -43,13 +43,13 @@
 
 > *"Building the future — one block, one line, one solution at a time."*
 
-I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, **2x Published Author**, and **Second-Year CS Student** (B.Tech CSBS) at Sri Sairam Engineering College, Chennai. I build everything from decentralized Web3 protocols to healthcare data platforms, with growing focus on **DeFi**, **Smart Contracts**, and **Cross-Platform Development**.
+I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, **2x Published Author**, **Patent Holder**, and **Second-Year CS Student** (B.Tech CSBS) at Sri Sairam Engineering College, Chennai. I build everything from decentralized Web3 protocols to healthcare data platforms, with growing focus on **DeFi**, **Smart Contracts**, and **Cross-Platform Development**.
 
 ```python
-balaji = {
-    "role":       ["Full-Stack Developer", "Blockchain Engineer", "2x Author"],
-    "highlights": ["SIH Finalist", "STATATHON 2025 Finalist", "IEEE Outstanding Project Award",
-                   "NXTGEN International Hackathon", "Website Lead @ IEEE TEMS"],
+RVKB = {
+    "role":       ["Full-Stack Developer", "Blockchain Engineer", "2x Author", "Patent Holder"],
+    "highlights": ["SIH Finalist", "STATATHON 2025 Finalist", "KAAVAL Hackathon Finalist",
+                   "IEEE Project Expo Winner", "Patent Holder (CBLOCK)", "Website Lead @ IEEE TEMS"],
     "experience": ["Intern @ SprintXplore Infotech", "Intern @ dot cowork", "Intern @ Zero Sollutions"],
     "interests":  ["Blockchain / Web3", "DeFi", "Healthcare Tech", "Full-Stack Dev"],
     "building":   "DeFiScore — Decentralized Credit Scoring Protocol on Ethereum",
@@ -78,14 +78,15 @@ balaji = {
 | 🚀 | **Smart India Hackathon (SIH)** | Government of India | Finalist |
 | 🌐 | **STATATHON 2025** | Government of India | Finalist |
 | 🌍 | **NXTGEN** | International Hackathon | Participant |
-| 🥇 | **Project Expo — 1st Position** | IEEE | Winner |
-| ⭐ | **Outstanding Project Award** | IEEE | Awardee |
+| 🥇 | **Project Expo** | IEEE | Winner |
+| 🏅 | **KAAVAL Hackathon** | StartupTN × Kanniyakumari District Police | Finalist |
 
 <br/>
 
 ### Research & Publications — Skill Unlocks
 
-- **2x Published Author** — Papers published in **ANVIKSHAN** and **CBLOCK**
+- **2x Published Author** — Research papers: **ANVIKSHAN** and **CBLOCK**
+- **Patent Holder** — Patent published for **CBLOCK**
 - Research areas: Blockchain, Decentralized Systems & Web3 Technology
 
 <br/>
@@ -220,8 +221,8 @@ balaji = {
 
 | Year | Title | Venue |
 |:---:|:---|:---:|
-| 2025 | **[Replace with your full paper title]** | ANVIKSHAN |
-| 2025 | **[Replace with your full paper title]** | CBLOCK |
+| 2025 | **ANVIKSHAN** | Published Research Paper |
+| 2025 | **CBLOCK** | Published Research Paper · 📋 Patent Holder |
 
 </div>
 
@@ -277,6 +278,6 @@ balaji = {
 
 <br/>
 
-**[LinkedIn](https://linkedin.com/in/rsvkb) &nbsp;·&nbsp; [Portfolio](https://your-portfolio-link.vercel.app) &nbsp;·&nbsp; [Email](mailto:rsvkb2005@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/rsvkb) &nbsp;·&nbsp; [Portfolio](https://rsvkb.netlify.app) &nbsp;·&nbsp; [Email](mailto:rsvkb2005@gmail.com)**
 
 </div>
