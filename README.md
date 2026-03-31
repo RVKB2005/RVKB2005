@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20SIH%20Finalist&descAlignY=58&descSize=16&descColor=93C5FD&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=SIH+Finalist+%7C+IEEE+Award+Winner;Blockchain+%26+Web3+Developer;Full-Stack+%7C+React+%7C+Flutter+%7C+Java;Building+DeFi+%26+Healthcare+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=12&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=SIH+%26+STATATHON+Finalist+%7C+IEEE+Award+Winner;Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder;2x+Published+Author+%7C+NXTGEN+Hackathon;Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python" alt="Typing SVG" />
 
 </div>
 
@@ -11,9 +11,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rsvkb)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsvkb2005@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rsvkb2005)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=rsvkb2005&style=for-the-badge&color=3B82F6&label=Profile+Views)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RVKB2005)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=RVKB2005&style=for-the-badge&color=3B82F6&label=Profile+Views)
 
 </div>
 
@@ -21,18 +22,34 @@
 
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
+<td width="22%" align="center" valign="middle">
+
+<img src="https://github.com/RVKB2005.png" width="155" alt="Venkata Krishna Balaji R" style="border-radius:50%;border:3px solid #3B82F6;" />
+
+<br/><br/>
+
+**Venkata Krishna Balaji R**<br/>
+<sub>Developer &middot; Blockchain Engineer &middot; Author</sub>
+
+<br/>
+
+![Level](https://img.shields.io/badge/LEVEL-2nd%20YEAR-3B82F6?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.3-FFD700?style=flat-square)
+
+</td>
 <td width="78%" valign="middle">
 
 ## Player One — About Me
 
 > *"Building the future — one block, one line, one solution at a time."*
 
-I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, and **Second-Year CS Student** at Sri Sairam Engineering College, Chennai. I build everything from decentralized Web3 protocols to healthcare data platforms, with growing focus on **DeFi**, **Smart Contracts**, and **Cross-Platform Development**.
+I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, **2x Published Author**, and **Second-Year CS Student** (B.Tech CSBS) at Sri Sairam Engineering College, Chennai. I build everything from decentralized Web3 protocols to healthcare data platforms, with growing focus on **DeFi**, **Smart Contracts**, and **Cross-Platform Development**.
 
 ```python
 balaji = {
-    "role":       ["Full-Stack Developer", "Blockchain Engineer"],
-    "highlights": ["SIH Finalist", "IEEE Outstanding Project Award", "Website Lead @ IEEE TEMS"],
+    "role":       ["Full-Stack Developer", "Blockchain Engineer", "2x Author"],
+    "highlights": ["SIH Finalist", "STATATHON 2025 Finalist", "IEEE Outstanding Project Award",
+                   "NXTGEN International Hackathon", "Website Lead @ IEEE TEMS"],
     "experience": ["Intern @ SprintXplore Infotech", "Intern @ dot cowork", "Intern @ Zero Sollutions"],
     "interests":  ["Blockchain / Web3", "DeFi", "Healthcare Tech", "Full-Stack Dev"],
     "building":   "DeFiScore — Decentralized Credit Scoring Protocol on Ethereum",
@@ -59,8 +76,17 @@ balaji = {
 | Medal | Event | Venue | Result |
 |:---:|:---|:---|:---:|
 | 🚀 | **Smart India Hackathon (SIH)** | Government of India | Finalist |
+| 🌐 | **STATATHON 2025** | Government of India | Finalist |
+| 🌍 | **NXTGEN** | International Hackathon | Participant |
 | 🥇 | **Project Expo — 1st Position** | IEEE | Winner |
-| 🌟 | **Outstanding Project Award** | IEEE | Awardee |
+| ⭐ | **Outstanding Project Award** | IEEE | Awardee |
+
+<br/>
+
+### Research & Publications — Skill Unlocks
+
+- **2x Published Author** — Papers published in **ANVIKSHAN** and **CBLOCK**
+- Research areas: Blockchain, Decentralized Systems & Web3 Technology
 
 <br/>
 
@@ -68,8 +94,8 @@ balaji = {
 
 | Company | Role | Period | Details |
 |:---|:---|:---:|:---|
-| **SprintXplore Infotech Pvt. Ltd.** | Intern (Blockchain Dev) | Jan 2026 – Present | Designed DeFiScore — DeFi credit scoring with ZK proofs · Smart contracts · DAO governance |
-| **dot cowork** | Intern | Jun 2025 – Jul 2025 | CRM tools · Excel-based inventory & attendance · Digital marketing campaigns |
+| **SprintXplore Infotech Pvt. Ltd.** | Blockchain Dev Intern | Jan 2026 – Present | Designed DeFiScore — ZK proofs · Smart contracts · DAO governance · Cross-chain scalability |
+| **dot cowork** | Intern | Jun 2025 – Jul 2025 | CRM tools · Excel inventory & attendance tracking · Digital marketing campaigns |
 | **Zero Sollutions** | Web Dev Intern | Feb 2024 – Mar 2024 | HTML · CSS · JS website development · Web dev best practices |
 
 <br/>
@@ -141,7 +167,7 @@ balaji = {
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 - Zero-Knowledge Proofs for user anonymity
-- DAO governance for transparent scoring
+- DAO governance for transparent, immutable scoring
 - Cross-chain scalability + undercollateralized lending
 
 </td>
@@ -158,7 +184,7 @@ balaji = {
 
 - Smart contracts for role-based access control
 - Patient consent management on-chain
-- Real-time, interoperable healthcare data
+- Real-time, interoperable healthcare data management
 
 </td>
 </tr>
@@ -168,7 +194,7 @@ balaji = {
 ### HDIMS — Health Data Information Management System
 > *QUEST: Modernize healthcare data at scale*
 
-**Mobile app** providing better data updates with separate interfaces for hospitals and departments, improving data management and visualization for healthcare providers across various administrative levels (district, sub-district, state/UT).
+**Mobile app** providing better data updates with separate interfaces for hospitals and departments, improving data management and visualization for healthcare providers across various administrative levels (district, sub-district, state/UT). Presented at SIH.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -183,6 +209,21 @@ balaji = {
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+## 📄 Publications — Research Log
+
+<div align="center">
+
+| Year | Title | Venue |
+|:---:|:---|:---:|
+| 2025 | **[Replace with your full paper title]** | ANVIKSHAN |
+| 2025 | **[Replace with your full paper title]** | CBLOCK |
+
+</div>
 
 <br/>
 
@@ -219,7 +260,7 @@ balaji = {
 ## 📊 Contribution Graph — Activity Log
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsvkb2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Balaji's%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RVKB2005&theme=tokyo-night&hide_border=true&area=true&custom_title=Balaji's%20Contribution%20Graph" width="100%" />
 </div>
 
 <br/>
@@ -236,6 +277,6 @@ balaji = {
 
 <br/>
 
-**[LinkedIn](https://linkedin.com/in/rsvkb) &nbsp;·&nbsp; [Email](mailto:rsvkb2005@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/rsvkb) &nbsp;·&nbsp; [Portfolio](https://your-portfolio-link.vercel.app) &nbsp;·&nbsp; [Email](mailto:rsvkb2005@gmail.com)**
 
 </div>
