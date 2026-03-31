@@ -1,47 +1,56 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════
-              HEADER BANNER — SAO STYLE
+     HEADER — Deep navy → teal sky → sunset orange
+     Palette from SAO artwork:
+       #0A1628 deep midnight navy
+       #1B4F72 dark ocean blue
+       #D97444 horizon sunset orange
+       #C4607A warm pink cloud
 ════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=220&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=36&fontColor=FFFFFF&desc=%E2%9A%94%EF%B8%8F%20Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20Patent%20Holder%20%E2%80%A2%20SIH%20Finalist%20%E2%9A%94%EF%B8%8F&descAlignY=56&descSize=14&descColor=7DD3FC&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,40:1B4F72,70:C4607A,100:D97444&height=220&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=36&fontColor=FCD68A&desc=%E2%9A%94%EF%B8%8F%20Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20Patent%20Holder%20%E2%80%A2%20SIH%20Finalist%20%E2%9A%94%EF%B8%8F&descAlignY=56&descSize=14&descColor=F5E6C8&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=13&pause=1200&color=7DD3FC&center=true&vCenter=true&width=750&lines=%E2%9A%94+SIH+%26+STATATHON+Finalist+%7C+Patent+Holder+%E2%9A%94;%F0%9F%97%A1+Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder+%F0%9F%97%A1;%F0%9F%93%9C+2x+Published+Author+%7C+KAAVAL+Hackathon+Finalist+%F0%9F%93%9C;%E2%9C%A8+Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python+%E2%9C%A8" alt="Typing SVG" />
+<!-- Typing SVG — ice blue sky color #7DD3FA -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=13&pause=1200&color=7DD3FA&center=true&vCenter=true&width=750&lines=%E2%9A%94+SIH+%26+STATATHON+Finalist+%7C+Patent+Holder+%E2%9A%94;%F0%9F%97%A1+Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder+%F0%9F%97%A1;%F0%9F%93%9C+2x+Published+Author+%7C+KAAVAL+Hackathon+Finalist+%F0%9F%93%9C;%E2%9C%A8+Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<!-- SAO divider gif -->
-<img src="https://i.pinimg.com/originals/fc/22/b5/fc22b5e6ae93b3a1f9cdab79d06d6702.gif" width="100%" height="3px" />
+<!-- Red energy horizon line — matching the glowing red slash in the image -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E83A3A&height=3&section=header" width="100%" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════
-                   SOCIAL BADGES
+     BADGES — sunset orange + teal sky palette
 ════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rsvkb)&nbsp;
-[![Portfolio](https://img.shields.io/badge/⚔_Portfolio-0C4A6E?style=for-the-badge&logoColor=white)](https://your-portfolio-link.vercel.app)&nbsp;
-[![Email](https://img.shields.io/badge/✉_Email-1E3A5F?style=for-the-badge&logoColor=white)](mailto:rsvkb2005@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RVKB2005)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=RVKB2005&style=for-the-badge&color=0369A1&label=Adventurers+Met)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4F72?style=for-the-badge&logo=linkedin&logoColor=7DD3FA)](https://linkedin.com/in/rsvkb)&nbsp;
+[![Portfolio](https://img.shields.io/badge/⚔_Portfolio-D97444?style=for-the-badge&logoColor=FCD68A)](https://your-portfolio-link.vercel.app)&nbsp;
+[![Email](https://img.shields.io/badge/✉_Email-C4607A?style=for-the-badge&logoColor=F5E6C8)](mailto:rsvkb2005@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=7DD3FA)](https://github.com/RVKB2005)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=RVKB2005&style=for-the-badge&color=1B4F72&label=Adventurers+Met)
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════
-              ABOUT ME — SAO PLAYER CARD
+     ABOUT ME — Player Card
+     Profile border: warm gold-white glow #FCD68A
+     Badge backgrounds: deep navy #0A1628
+     Badge text: ice sky blue #7DD3FA / sunset #D97444
 ════════════════════════════════════════════════ -->
 
 <table align="center" border="0" width="96%" cellpadding="16" cellspacing="0">
 <tr>
 <td width="22%" align="center" valign="middle">
 
-<img src="https://github.com/RVKB2005.png" width="155" alt="Venkata Krishna Balaji R" style="border-radius:50%;border:3px solid #38BDF8;box-shadow:0 0 20px #0EA5E9;" />
+<img src="https://github.com/RVKB2005.png" width="155" alt="Venkata Krishna Balaji R" style="border-radius:50%;border:3px solid #FCD68A;box-shadow:0 0 22px #D97444;" />
 
 <br/><br/>
 
@@ -50,8 +59,8 @@
 
 <br/>
 
-![Floor](https://img.shields.io/badge/FLOOR-2nd%20YEAR-0369A1?style=flat-square)
-![HP](https://img.shields.io/badge/CGPA-8.3-38BDF8?style=flat-square)
+![Floor](https://img.shields.io/badge/FLOOR-2nd%20YEAR-1B4F72?style=flat-square&labelColor=0A1628)
+![HP](https://img.shields.io/badge/CGPA-8.3-D97444?style=flat-square&labelColor=0A1628)
 
 </td>
 <td width="78%" valign="middle">
@@ -82,15 +91,17 @@ player = {
 
 <br/>
 
-<!-- SAO horizontal line divider -->
+<!-- Red-orange horizon divider line — the glowing slash from the image -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E83A3A,FCD68A,E83A3A&height=2&section=header" width="100%" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════
-           ACHIEVEMENTS — FLOOR BOSSES CLEARED
+     ACHIEVEMENTS
+     Section headers: warm gold #FCD68A
+     Table accent: sunset #D97444 / teal #2DD4BF
 ════════════════════════════════════════════════ -->
 
 ## 🗡️ Floor Bosses Cleared — Achievements
@@ -126,13 +137,15 @@ player = {
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E83A3A,FCD68A,E83A3A&height=2&section=header" width="100%" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════
-               TECH STACK — EQUIPPED SKILLS
+     TECH STACK
+     Badge bg: deep navy #0A1628
+     Badge icon/text: ice sky #7DD3FA (teal sky from image)
 ════════════════════════════════════════════════ -->
 
 ## 🛡️ Equipped Skills — Tech Stack
@@ -177,13 +190,16 @@ player = {
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E83A3A,FCD68A,E83A3A&height=2&section=header" width="100%" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════
-                PROJECTS — MAIN STORY ARCS
+     PROJECTS
+     Badge backgrounds: deep navy #0A1628
+     Badge text: alternating sunset #D97444 and sky #7DD3FA
+     matching warm glow vs cool sky split in the image
 ════════════════════════════════════════════════ -->
 
 ## ✨ Main Story Arcs — Featured Projects
@@ -197,9 +213,9 @@ player = {
 
 **Decentralized credit scoring protocol** on Ethereum using on-chain behavioral data and **zero-knowledge proofs** to assess wallet reputation. Enables undercollateralized lending with full user anonymity, governed by DAO.
 
-![Solidity](https://img.shields.io/badge/Solidity-0F172A?style=flat-square&logo=solidity&logoColor=38BDF8)
-![Ethereum](https://img.shields.io/badge/Ethereum-0F172A?style=flat-square&logo=ethereum&logoColor=38BDF8)
-![Web3](https://img.shields.io/badge/Web3-0F172A?style=flat-square&logo=web3.js&logoColor=38BDF8)
+![Solidity](https://img.shields.io/badge/Solidity-0A1628?style=flat-square&logo=solidity&logoColor=7DD3FA)
+![Ethereum](https://img.shields.io/badge/Ethereum-0A1628?style=flat-square&logo=ethereum&logoColor=D97444)
+![Web3](https://img.shields.io/badge/Web3-0A1628?style=flat-square&logo=web3.js&logoColor=FCD68A)
 
 - 🔒 Zero-Knowledge Proofs for user anonymity
 - 🏛️ DAO governance for transparent, immutable scoring
@@ -213,9 +229,9 @@ player = {
 
 **Decentralized healthcare data platform** on Ethereum with FHIR standards. Encrypts and shares patient records across hospitals using smart contracts for role-based access and immutable audit trails.
 
-![Solidity](https://img.shields.io/badge/Solidity-0F172A?style=flat-square&logo=solidity&logoColor=38BDF8)
-![Ethereum](https://img.shields.io/badge/Ethereum-0F172A?style=flat-square&logo=ethereum&logoColor=38BDF8)
-![FHIR](https://img.shields.io/badge/FHIR-0F172A?style=flat-square&logoColor=38BDF8)
+![Solidity](https://img.shields.io/badge/Solidity-0A1628?style=flat-square&logo=solidity&logoColor=7DD3FA)
+![Ethereum](https://img.shields.io/badge/Ethereum-0A1628?style=flat-square&logo=ethereum&logoColor=D97444)
+![FHIR](https://img.shields.io/badge/FHIR-0A1628?style=flat-square&logoColor=C4607A)
 
 - 🔑 Smart contracts for role-based access control
 - 📋 Patient consent management on-chain
@@ -231,15 +247,15 @@ player = {
 
 **Mobile app** providing better data updates with separate interfaces for hospitals and departments, improving data management and visualization for healthcare providers across district, sub-district, and state/UT levels. Presented at SIH.
 
-![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8)
+![Flutter](https://img.shields.io/badge/Flutter-0A1628?style=flat-square&logo=flutter&logoColor=7DD3FA)
+![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=FCD68A)
+![MySQL](https://img.shields.io/badge/MySQL-0A1628?style=flat-square&logo=mysql&logoColor=D97444)
 
 - 🗺️ Multi-level admin dashboard — District · Sub-district · State/UT
 - 🏨 Separate hospital and department interfaces
 - 📊 Data visualization for health scheme management
 
-<a href="https://youtu.be/SP7m-flGhzo?si=qj8kPvbQKmy40hOL"><img src="https://img.shields.io/badge/%E2%96%B6%20WATCH%20DEMO-0F172A?style=for-the-badge&logo=youtube&logoColor=38BDF8"/></a>
+<a href="https://youtu.be/SP7m-flGhzo?si=qj8kPvbQKmy40hOL"><img src="https://img.shields.io/badge/%E2%96%B6%20WATCH%20DEMO-0A1628?style=for-the-badge&logo=youtube&logoColor=E83A3A"/></a>
 
 </td>
 </tr>
@@ -248,14 +264,10 @@ player = {
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E83A3A,FCD68A,E83A3A&height=2&section=header" width="100%" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════
-              PUBLICATIONS — THE GRIMOIRE
-════════════════════════════════════════════════ -->
 
 ## 📜 The Grimoire — Publications & Patent
 
@@ -271,14 +283,10 @@ player = {
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E83A3A,FCD68A,E83A3A&height=2&section=header" width="100%" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════
-             CERTIFICATIONS — SKILL SCROLLS
-════════════════════════════════════════════════ -->
 
 ## 🎓 Skill Scrolls — Certifications
 
@@ -296,14 +304,10 @@ player = {
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E83A3A,FCD68A,E83A3A&height=2&section=header" width="100%" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════
-            LEADERSHIP — GUILD COUNCIL
-════════════════════════════════════════════════ -->
 
 ## 🏰 Guild Council — Volunteering & Leadership
 
@@ -315,29 +319,26 @@ player = {
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E83A3A,FCD68A,E83A3A&height=2&section=header" width="100%" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════
-           CONTRIBUTION GRAPH — ACTIVITY MAP
-════════════════════════════════════════════════ -->
 
 ## 🗺️ Aincrad Map — Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RVKB2005&theme=tokyo-night&hide_border=true&area=true&area_color=0EA5E9&line=38BDF8&point=7DD3FC&custom_title=Balaji's%20Aincrad%20Activity%20Map" width="100%" />
+  <!-- graph colors: bg deep navy, line teal sky, area sunset orange, point golden glow -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RVKB2005&bg_color=0A1628&color=FCD68A&line=D97444&point=E83A3A&area=true&area_color=1B4F72&hide_border=true&custom_title=Balaji's%20Aincrad%20Activity%20Map" width="100%" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════
-                      FOOTER
+     FOOTER — mirrors header: navy → teal → pink → orange
 ════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=130&section=footer&text=%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3&fontSize=18&fontColor=7DD3FC&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97444,30:C4607A,60:1B4F72,100:0A1628&height=130&section=footer&text=%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3&fontSize=18&fontColor=FCD68A&fontAlignY=55" width="100%" />
 </div>
 
 <div align="center">
