@@ -33,7 +33,7 @@
 
 <br/>
 
-![Level](https://img.shields.io/badge/LEVEL-2nd%20YEAR-3B82F6?style=flat-square)
+![Level](https://img.shields.io/badge/LEVEL-3nd%20YEAR-3B82F6?style=flat-square)
 ![CGPA](https://img.shields.io/badge/CGPA-8.3-FFD700?style=flat-square)
 
 </td>
