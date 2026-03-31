@@ -154,7 +154,7 @@ player = {
 
 <table border="0" width="96%" cellpadding="18" cellspacing="0">
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="28%" align="center" valign="top">
 
 **⚔️ Languages**
 
