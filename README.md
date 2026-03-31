@@ -168,7 +168,7 @@ player = {
 <img src="https://skillicons.dev/icons?i=react,flutter,html,css&theme=dark&perline=2" />
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 **🏰 Backend & DB**
 
