@@ -161,7 +161,7 @@ player = {
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark&perline=2" />
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="28%" align="center" valign="top">
 
 **🗡️ Frontend**
 
