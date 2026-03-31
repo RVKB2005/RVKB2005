@@ -175,7 +175,7 @@ player = {
 <img src="https://skillicons.dev/icons?i=mysql,nodejs,solidity,ethereum&theme=dark&perline=2" />
 
 </td>
-<td width="30%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 **✨ Tools**
 
