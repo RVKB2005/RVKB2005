@@ -351,7 +351,7 @@ player = {
 
 <div align="center">
   <!-- graph colors: bg deep navy, line teal sky, area sunset orange, point golden glow -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RVKB2005&bg_color=0A1628&color=FCD68A&line=D97444&point=E83A3A&area=true&area_color=1B4F72&hide_border=true&custom_title=Balaji's%20Aincrad%20Activity%20Map" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RVKB2005&bg_color=0A1628&color=FCD68A&line=D97444&point=E83A3A&area=true&area_color=1B4F72&hide_border=true&custom_title=RVKB's%20Aincrad%20Activity%20Map" width="100%" />
 </div>
 
 <br/>
