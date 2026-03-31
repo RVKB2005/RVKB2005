@@ -9,7 +9,7 @@
        #C4607A warm pink cloud
 ════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071E2B,25:0D2B3E,55:1A3A4A,80:4A6B8A,100:6B8FAB&height=220&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=36&fontColor=D6EAF8&desc=%E2%9A%94%EF%B8%8F%20Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20Patent%20Holder%20%E2%80%A2%20SIH%20Finalist%20%E2%9A%94%EF%B8%8F&descAlignY=56&descSize=14&descColor=AED6F1&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1931,20:0D3B6E,50:1B6CA8,80:2E86C1,100:5DADE2&height=220&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=36&fontColor=EBF5FB&desc=%E2%9A%94%EF%B8%8F%20Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20Patent%20Holder%20%E2%80%A2%20SIH%20Finalist%20%E2%9A%94%EF%B8%8F&descAlignY=56&descSize=14&descColor=AED6F1&animation=twinkling" width="100%" />
 
 <!-- Typing SVG — ice blue sky color #7DD3FA -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=13&pause=1200&color=7DD3FA&center=true&vCenter=true&width=750&lines=%E2%9A%94+SIH+%26+STATATHON+Finalist+%7C+Patent+Holder+%E2%9A%94;%F0%9F%97%A1+Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder+%F0%9F%97%A1;%F0%9F%93%9C+2x+Published+Author+%7C+KAAVAL+Hackathon+Finalist+%F0%9F%93%9C;%E2%9C%A8+Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python+%E2%9C%A8" alt="Typing SVG" />
@@ -59,7 +59,7 @@
 
 <br/>
 
-![Floor](https://img.shields.io/badge/FLOOR-2nd%20YEAR-1B4F72?style=flat-square&labelColor=0A1628)
+![Floor](https://img.shields.io/badge/FLOOR-3rd%20YEAR-1B6CA8?style=flat-square&labelColor=0A1931)
 ![HP](https://img.shields.io/badge/CGPA-8.3-D97444?style=flat-square&labelColor=0A1628)
 
 </td>
@@ -338,7 +338,7 @@ player = {
 ════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8FAB,20:4A6B8A,50:1A3A4A,75:0D2B3E,100:071E2B&height=130&section=footer&text=%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3&fontSize=18&fontColor=AED6F1&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,25:2E86C1,55:1B6CA8,80:0D3B6E,100:0A1931&height=130&section=footer&text=%E3%82%BD%E3%83%BC%E3%83%89%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3&fontSize=18&fontColor=EBF5FB&fontAlignY=55" width="100%" />
 </div>
 
 <div align="center">
