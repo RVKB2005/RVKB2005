@@ -154,14 +154,14 @@ player = {
 
 <table border="0" width="96%" cellpadding="18" cellspacing="0">
 <tr>
-<td width="28%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 **⚔️ Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark&perline=2" />
 
 </td>
-<td width="28%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 **🗡️ Frontend**
 
@@ -175,7 +175,7 @@ player = {
 <img src="https://skillicons.dev/icons?i=mysql,nodejs,solidity,ethereum&theme=dark&perline=2" />
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 **✨ Tools**
 
