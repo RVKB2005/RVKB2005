@@ -69,7 +69,7 @@
 
 > *「 In this world, your code is your sword. Build with purpose, strike with precision. 」*
 
-I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, **2x Published Author**, **Patent Holder**, and **Second-Year CS Student** (B.Tech CSBS) at Sri Sairam Engineering College, Chennai. Like Kirito navigating Aincrad, I cut through complex problems — from decentralized Web3 protocols to healthcare platforms — levelling up with every project.
+I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, **2x Published Author**, **Patent Holder**, and **Pre-final Year Student** (B.Tech CSBS) at Sri Sairam Engineering College, Chennai. Like Kirito navigating Aincrad, I cut through complex problems — from decentralized Web3 protocols to healthcare platforms — levelling up with every project.
 
 ```python
 # ── Adventurer Stats ── RVKB2005 ──────────────────────────────────
