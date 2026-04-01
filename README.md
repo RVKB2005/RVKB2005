@@ -113,7 +113,7 @@ player = {
 | 🚀 | **Smart India Hackathon (SIH)** | Government of India | Finalist |
 | 🌐 | **STATATHON 2025** | Government of India | Finalist |
 | 🏅 | **KAAVAL Hackathon** | StartupTN × Kanniyakumari District Police | Finalist |
-| 🌍 | **NXTGEN** | International Hackathon | Participant |
+| 🌍 | **NXTGEN** | International Hackathon | Finalist |
 | ⚔️ | **Project Expo** | IEEE | Winner |
 
 <br/>
