@@ -12,7 +12,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1931,20:0D3B6E,50:1B6CA8,80:2E86C1,100:5DADE2&height=220&section=header&text=Venkata%20Krishna%20Balaji%20R&fontSize=42&fontAlignY=36&fontColor=EBF5FB&desc=%E2%9A%94%EF%B8%8F%20Full-Stack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20Patent%20Holder%20%E2%80%A2%20SIH%20Finalist%20%E2%9A%94%EF%B8%8F&descAlignY=56&descSize=14&descColor=AED6F1&animation=twinkling" width="100%" />
 
 <!-- Typing SVG — ice blue sky color #7DD3FA -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=13&pause=1200&color=7DD3FA&center=true&vCenter=true&width=750&lines=%E2%9A%94+SIH+%26+STATATHON+Finalist+%7C+Patent+Holder+%E2%9A%94;%F0%9F%97%A1+Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder+%F0%9F%97%A1;%F0%9F%93%9C+2x+Published+Author+%7C+KAAVAL+Hackathon+Finalist+%F0%9F%93%9C;%E2%9C%A8+Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=13&pause=1200&color=7DD3FA&center=true&vCenter=true&width=750&lines=%E2%9A%94+SIH+%26+STATATHON+Finalist+%7C+Patent+Holder+%E2%9A%94;%F0%9F%97%A1+Blockchain+Engineer+%7C+Web3+%26+DeFi+Builder+%F0%9F%97%A1;%F0%9F%93%9C+KAAVAL+Hackathon+Finalist+%F0%9F%93%9C;%E2%9C%A8+Full-Stack%3A+React+%7C+Flutter+%7C+Java+%7C+Python+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4F72?style=for-the-badge&logo=linkedin&logoColor=7DD3FA)](https://linkedin.com/in/rsvkb)&nbsp;
-[![Portfolio](https://img.shields.io/badge/⚔_Portfolio-D97444?style=for-the-badge&logoColor=FCD68A)](https://your-portfolio-link.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/⚔_Portfolio-D97444?style=for-the-badge&logoColor=FCD68A)](https://rsvkb.netlify.app/)&nbsp;
 [![Email](https://img.shields.io/badge/✉_Email-C4607A?style=for-the-badge&logoColor=F5E6C8)](mailto:rsvkb2005@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=7DD3FA)](https://github.com/RVKB2005)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=RVKB2005&style=for-the-badge&color=1B4F72&label=Adventurers+Met)
@@ -55,7 +55,7 @@
 <br/><br/>
 
 **Venkata Krishna Balaji R**<br/>
-<sub>⚔️ Developer · Blockchain Engineer · Author</sub>
+<sub>⚔️ Developer · Blockchain Engineer</sub>
 
 <br/>
 
@@ -69,7 +69,7 @@
 
 > *「 In this world, your code is your sword. Build with purpose, strike with precision. 」*
 
-I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, **2x Published Author**, **Patent Holder**, and **Pre-final Year Student** (B.Tech CSBS) at Sri Sairam Engineering College, Chennai. Like Kirito navigating Aincrad, I cut through complex problems — from decentralized Web3 protocols to healthcare platforms — levelling up with every project.
+I'm **Venkata Krishna Balaji R** — a **Full-Stack Developer**, **Blockchain Engineer**, **Patent Holder**, and **Pre-final Year Student** (B.Tech CSBS) at Sri Sairam Engineering College, Chennai. Like Kirito navigating Aincrad, I cut through complex problems — from decentralized Web3 protocols to healthcare platforms — levelling up with every project.
 
 ```python
 # ── Adventurer Stats ── RVKB2005 ──────────────────────────────────
@@ -120,7 +120,6 @@ player = {
 
 ### 📜 Grimoire — Research & Publications
 
-- **2x Published Author** — Research papers: **ANVIKSHAN** and **CBLOCK**
 - **Patent Holder** — Patent published for **CBLOCK**
 - *Research domain: Blockchain · Decentralized Systems · Web3 Technology*
 
